@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    {
+      "name": "Women In Tech Belfast (Meetup)",
+      "type": "ical",
+      "url": "https://www.meetup.com/women-in-tech-belfast/events/ical/",
+      "pageUrl": "https://www.meetup.com/women-in-tech-belfast/",
+      "org": "Women In Tech Belfast",
+      "defaultVenue": "Venue to be confirmed"
+    }
+  ]
+}

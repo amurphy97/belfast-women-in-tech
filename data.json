@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "dataCheckedDate": "2026-09-22"
+  },
+  "events": [
+    { "id": "wit-lead-2025", "title": "Women in Leadership Event 2025", "org": "Women In Tech Belfast", "start": "2025-11-26", "time": "17:30", "venue": "DailyPay, 2-14 Castle St, Belfast", "note": "62 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-burnout", "title": "Beat the Burnout", "org": "Women In Tech Belfast", "start": "2026-01-22", "time": "17:30", "venue": "Urban HQ, Eagle Star House, 5-7 Upper Queen St, Belfast", "note": "57 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-iwd", "title": "Lightning Talks Evening (International Women’s Day)", "org": "Women In Tech Belfast", "start": "2026-03-04", "time": "17:30", "venue": "Venue not listed", "note": "46 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wtm-2026", "title": "Women Techmakers Belfast Conference 2026 (10th annual)", "org": "Women Techmakers Belfast", "start": "2026-03-07", "time": "", "venue": "Belfast", "note": "Milestone edition. Across 10 conferences: 148 speakers, 1,600 attendees.", "url": "https://www.womentechmakersbelfast.com/" },
+    { "id": "empower", "title": "Empower Girls 2026", "org": "CyberFirst, Aflac NI and Belfast Chamber", "start": "2026-03-19", "time": "", "venue": "ICC Belfast", "note": "700 Year 8 girls from 23 schools, up from 250 in 2024 and 500+ in 2025.", "url": "https://belfastchamber.com/empower-girls-2026-to-inspire-700-young-women-as-northern-irelands-tech-community-comes-together/" },
+    { "id": "awards", "title": "Women in Tech Awards 2026", "org": "Women in Business NI", "start": "2026-06-19", "time": "", "venue": "Europa Hotel, Belfast", "note": "Fifth annual awards. 300+ guests, ten categories.", "url": "https://syncni.com/article/15595/northern-ireland-s-tech-leaders-celebrated-at-women-in-tech-awards-2026" },
+    { "id": "summer", "title": "Women in Tech Belfast: Summer Social 2026", "org": "Women In Tech Belfast, hosted by Kainos", "start": "2026-08-26", "time": "17:30", "venue": "Kainos, 4-6 Upper Crescent, Belfast", "note": "Featured Louise Brogan on raising your visibility on LinkedIn. 72 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "cyber", "title": "NI Cyber x Danske Bank Women in Cyber: September Social", "org": "NI Cyber and Danske Bank UK", "start": "2026-09-02", "time": "17:30", "venue": "The Dark Horse, Belfast", "note": "A relaxed evening connecting women in cyber and banking.", "url": "https://danskebank.co.uk/about-us/news-and-insights/supporting-women-working-in-cyber-security" },
+    { "id": "btw", "title": "Belfast Tech Week 2026", "org": "Community-run, city-wide", "start": "2026-09-21", "end": "2026-09-25", "time": "", "venue": "Venues across Belfast", "note": "60+ events, 3,000+ attendees expected. Women-focused: MCS Group’s Women in Tech Roundtable (8:00, invite only). Groups taking part include Women Shaping Product & Design NI, TechFoundHer and Black Tech Belfast.", "url": "https://belfasttechweek.com/" },
+    { "id": "wtm-2027", "title": "Women Techmakers Belfast Conference 2027", "org": "Women Techmakers Belfast", "start": "2027-03-01", "time": "", "venue": "Belfast", "note": "Announced for “March 2027”. Exact date not yet published (1 March is a placeholder used for sorting).", "url": "https://www.womentechmakersbelfast.com/", "approx": true },
+    { "id": "wib-conf", "title": "Women in Tech Conference: “Women Transforming Tech”", "org": "Women in Business NI", "start": null, "time": "", "venue": "Titanic Belfast", "note": "8th edition. Host: Babita Sharma. Listed as fully booked; email wib@plannd.co.uk to join the waiting list. Date not shown on the page I could read.", "url": "https://www.womeninbusinessni.com/events/women-in-tech-conference" },
+    { "id": "wit-angel-masterclass", "title": "Angel Investing Masterclass Evening", "org": "Women In Tech Belfast, with AwakenAngels", "start": "2025-06-04", "time": "17:30", "venue": "Ulster Bank Head Office, Donegall Square East, Belfast", "note": "90-minute introduction to angel investing for women new to the space, hosted by the Ulster Bank Accelerator programme. 24 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-hormones", "title": "Hormones: The Last Workplace Taboo", "org": "Women In Tech Belfast", "start": "2025-06-17", "time": "17:30", "venue": "Urban HQ, Eagle Star House, 5-7 Upper Queen St, Belfast", "note": "Panel on PMT, endometriosis, PCOS, perimenopause and menopause at work, sponsored by Business Insider, Mintel and Urban HQ. 49 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-summer-2025", "title": "Women in Tech Belfast Summer Social 2025", "org": "Women In Tech Belfast, hosted by Liberty IT", "start": "2025-08-14", "time": "17:30", "venue": "Liberty IT, Adelaide Exchange, 24-26 Adelaide St, Belfast", "note": "Stress-management workshop on the Emotional Freedom Technique (EFT), plus networking. 82 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-ai-reward", "title": "Women x AI: Driving Innovation", "org": "Women in Tech, hosted by Reward — Belfast Tech Week 2025", "start": "2025-09-22", "time": "12:00", "venue": "Arnott House, 12-16 Bridge Street, Belfast", "note": "Lunchtime panel on women shaping the AI landscape, with speakers from Reward, Kainos, TechFoundHer, DevDay and ESO. 72 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-lightning-2025", "title": "Lightning Talks: “What I Wish I’d Known”", "org": "Women in Tech, hosted by Innovation Factory — Belfast Tech Week 2025", "start": "2025-09-22", "time": "17:30", "venue": "The Innovation Factory, Forthriver Business Park, Belfast", "note": "Eleven short talks from community members, sponsored by Payroc. 42 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "wit-angel-fireside", "title": "Fireside Chat: Angel Investing and Irish Women in Tech", "org": "Women in Tech Belfast, AwakenAngels and Catalyst — Belfast Tech Week 2025", "start": "2025-09-24", "time": "12:00", "venue": "Catalyst, 17 Bedford Street, Belfast", "note": "Lunch-and-learn on angel investing and female founders. 17 attendees.", "url": "https://www.meetup.com/women-in-tech-belfast/" },
+    { "id": "ni-tech-awards-2025", "title": "NI Tech Awards 2025: Women in Tech Belfast wins Best Meetup of the Year", "org": "MCS Group — Belfast Tech Week 2025", "start": "2025-09-25", "time": "19:00", "venue": "Revolución de Cuba, Belfast", "note": "Invite-only awards night across 11 categories. Women in Tech Belfast won Best Meetup of the Year (listed as “Women in Tech” on the official winners page), beating NI Cyber Breakfast Club, The Growth Network and the MCS Group Data Meetup.", "url": "https://nitechawards.com/2025-winners", "image": "images/events/ni-tech-awards-2025-group.jpg", "imageAlt": "Women in Tech Belfast and community members celebrating with the Best Meetup of the Year award at the NI Tech Awards 2025" }
+  ],
+  "news": [
+    { "d": "2026-09-21", "t": "Belfast Tech Week begins", "p": "Five days of community-run events across the city, 21–25 September, with 60+ events on the programme." },
+    { "d": "2026-09-02", "t": "Women in Cyber September Social", "p": "NI Cyber and Danske Bank UK brought women from cyber security and banking together at The Dark Horse." },
+    { "d": "2026-08-26", "t": "Women in Tech Belfast Summer Social at Kainos", "p": "72 attendees; Louise Brogan shared practical LinkedIn visibility advice." },
+    { "d": "2026-06-19", "t": "Lorna McAdoo named Outstanding Woman in Tech", "p": "The Chair of Software NI and Group Director ESG at Version 1 took the top award at the fifth Women in Tech Awards. All finalists joined the Women in Tech Awards Alumnae network." },
+    { "d": "2026-03-19", "t": "Empower Girls hits record attendance", "p": "700 girls attended at ICC Belfast, the largest event of its kind in the region. Women hold just 23% of tech roles in Northern Ireland." },
+    { "d": "2026-03-07", "t": "Women Techmakers Belfast marks its 10th conference", "p": "A decade of the International Women’s Day conference: 148 speakers and 1,600 attendees in total. Next one: March 2027." },
+    { "d": "2025-09-25", "t": "Women in Tech Belfast named Best Meetup of the Year", "p": "At the invite-only NI Tech Awards 2025, run by MCS Group as part of Belfast Tech Week, the community beat three other shortlisted meetups for the title.", "image": "images/events/ni-tech-awards-2025-trophy.jpg", "imageAlt": "The Best Meetup of the Year award from the NI Tech Awards 2025" }
+  ],
+  "awards": [
+    ["Outstanding Woman in Tech", "Lorna McAdoo", "Software NI / Version 1", "VANRATH"],
+    ["C Level Woman of the Year", "Beverley Noye", "TP ICAP", "IQ&Co"],
+    ["Digital Transformation Leader of the Year", "Debbie Muldoon", "BT", "Openreach"],
+    ["Outstanding Apprentice of the Year", "Riona McGlinchey", "Kainos", "Version 1"],
+    ["Tech Advocate of the Year", "Alex Brownrigg", "EY", "Pytilia"],
+    ["Entrepreneur of the Year", "Loraa White", "Music Video Marketplace", "Allstate"],
+    ["Male Advocate of the Year", "Yuan Zhang", "Liberty IT", "Graham"],
+    ["One to Watch in the Future", "Reeshika Mukherjee", "EY", "BT"],
+    ["Tech Team of the Year", "Rachelle Reid and ACE Team", "Aflac NI", "Vyta"],
+    ["Software Engineer of the Year", "Annette McCullough", "DailyPay", "TP ICAP"]
+  ],
+  "groups": [
+    { "n": "Women In Tech Belfast", "d": "Meetup group for women in any area of tech: support each other, learn new skills and take on new challenges. 2,080 members, rated 4.8/5 from 287 ratings. Named Best Meetup of the Year at the NI Tech Awards 2025.", "u": "https://www.meetup.com/women-in-tech-belfast/", "image": "images/groups/women-in-tech-belfast.jpg", "imageAlt": "Women in Tech Belfast community members at the NI Tech Awards 2025" },
+    { "n": "Women Techmakers Belfast", "d": "Local chapter of Google’s global programme. Runs meetups and an annual International Women’s Day conference. Contact: wtmbelfast@gmail.com. Talks from 2025 are on YouTube.", "u": "https://www.womentechmakersbelfast.com/" },
+    { "n": "Women in Business NI", "d": "Organises the Women in Tech Awards and the Women in Tech Conference at Titanic Belfast.", "u": "https://www.womeninbusinessni.com/events/women-in-tech-conference" },
+    { "n": "NI Cyber x Danske Bank: Women in Cyber", "d": "Partnership supporting women working in cyber security, with regular socials and role-model events.", "u": "https://danskebank.co.uk/about-us/news-and-insights/supporting-women-working-in-cyber-security" },
+    { "n": "CyberFirst Empower Girls", "d": "Free schools event introducing Year 8 girls to cyber security and technology careers.", "u": "https://belfastchamber.com/empower-girls-2026-to-inspire-700-young-women-as-northern-irelands-tech-community-comes-together/" },
+    { "n": "Other groups on the Belfast Tech Week programme", "d": "Women Shaping Product & Design NI, TechFoundHer and Black Tech Belfast. Sync NI also runs a Women in Tech hub with news and interviews (including SistersIN and AwakenHub).", "u": "https://syncni.com/pages/women-in-tech" }
+  ],
+  "sources": [
+    ["Women In Tech Belfast group, events and member counts", "https://www.meetup.com/women-in-tech-belfast/"],
+    ["Women in Tech Awards 2026 winners", "https://syncni.com/article/15595/northern-ireland-s-tech-leaders-celebrated-at-women-in-tech-awards-2026"],
+    ["Belfast Tech Week 2026 programme", "https://belfasttechweek.com/"],
+    ["Women Techmakers Belfast", "https://www.womentechmakersbelfast.com/"],
+    ["Empower Girls 2026", "https://belfastchamber.com/empower-girls-2026-to-inspire-700-young-women-as-northern-irelands-tech-community-comes-together/"],
+    ["Women in Tech Conference (Women in Business NI)", "https://www.womeninbusinessni.com/events/women-in-tech-conference"],
+    ["Women in Cyber (Danske Bank and NI Cyber)", "https://danskebank.co.uk/about-us/news-and-insights/supporting-women-working-in-cyber-security"],
+    ["Sync NI Women in Tech hub", "https://syncni.com/pages/women-in-tech"],
+    ["NI Tech Awards 2025 winners (Best Meetup of the Year)", "https://nitechawards.com/2025-winners"]
+  ]
+}
